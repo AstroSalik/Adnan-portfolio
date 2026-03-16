@@ -1,0 +1,17 @@
+{
+  "name": "Adnan Mushtaq Lone | Deep Learning Engineer",
+  "short_name": "Adnan Portfolio",
+  "description": "Portfolio of Adnan Mushtaq Lone, Deep Learning Engineer and Researcher.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050816",
+  "theme_color": "#050816",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
