@@ -85,6 +85,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <div align="center">
 
-Built with ❤️ by **$\color{cyan}{\textsf{Salik Riyaz}}$** for **$\color{orange}{\textsf{Adnan Mushtaq Lone}}$**
+Built with ❤️ by
+
+[![Salik Riyaz](https://img.shields.io/badge/DEV-Salik%20Riyaz-cyan?style=for-the-badge&logo=github)](https://github.com/AstroSalik)
+for
+[![Adnan Mushtaq Lone](https://img.shields.io/badge/PORTFOLIO-Adnan%20Mushtaq%20Lone-orange?style=for-the-badge)](https://github.com/AstroSalik/Adnan-portfolio)
 
 </div>
