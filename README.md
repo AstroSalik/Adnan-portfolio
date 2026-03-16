@@ -84,5 +84,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 <div align="center">
-Built with ❤️ by **Salik Riyaz** for **Adnan Mushtaq Lone**
+
+Built with ❤️ by **$\color{cyan}{\textsf{Salik Riyaz}}$** for **$\color{orange}{\textsf{Adnan Mushtaq Lone}}$**
+
 </div>
