@@ -84,5 +84,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 <div align="center">
-Built with ❤️ by <b>Adnan Mushtaq Lone</b>
+Built with ❤️ by **Salik Riyaz** for **Adnan Mushtaq Lone**
 </div>
